@@ -18,9 +18,13 @@ I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Pytho
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 <!--*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*-->
 
@@ -31,7 +35,7 @@ I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Pytho
 
 ![Project 1 Screenshot](img/Picture3.jpg)
 
-**EduLearn** is an **e-learning website aimed at secondary school students in Zambia under the ECZ curriculum, which will enable them to access educational resources such as notes based on subjects, past exam papers, and interactive quizzes** and it is built with **HTML, CSS, JavaScript, PHP, and MySQL**. This project demonstrates my ability to **analyse a project area, identify a relevant problem, build and deploy a solution, as well as project management and documentation**. You can check out the repository [here](project_1_repository_link).
+**EduLearn** is an **e-learning website aimed at secondary school students in Zambia under the ECZ curriculum, which will enable them to access educational resources such as notes based on subjects, past exam papers, and interactive quizzes** and it is built with **HTML, CSS, JavaScript, PHP, and MySQL**. This project demonstrates my ability to **analyse a project area, identify a relevant problem, build and deploy a solution, as well as project management and documentation**. You can check out the repository [here](https://github.com/bongani-nc/edulearn).
 
 ### [Standing Desk Website](https://bongani-nc.github.io/standing-desks/home.html)
 
