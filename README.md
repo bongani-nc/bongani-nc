@@ -27,22 +27,22 @@ I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Pytho
 
 ## Featured Projects 💻
 
-### [Project 1 Title]()
+### [EduLearn - A Zambian Secondary School E-learning Website](https://edulearn123.wuaze.com/)
 
 ![Project 1 Screenshot](img/Picture3.jpg)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[EduLearn]** is an **[e-learning website aimed at secondary school students in Zambia under the ECZ curriculum, which will enable them to access educational resources such as notes based on subjects, past exam papers, and interactive quizzes]** and it is built with **[HTML, CSS, JavaScript, PHP, and MySQL]**. This project demonstrates my ability to **[analyse a project area, identify a relevant problem, build and deploy a solution, as well as project management and documentation]**. You can check out the repository [here](project_1_repository_link).
 
 ### [Standing Desk Website](https://bongani-nc.github.io/standing-desks/home.html)
 
 ![Project 2 Screenshot](img/Picture4.jpg)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[The Standing Desk Website]** is a **[a standing desk website that has various features such as a home page, benefits, cart, shopping page and a responsive design]** built with **[HTML, CSS, and JavaScript]**. This project showcases my skills in **[designing and developing a front-end website]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+
 
 
