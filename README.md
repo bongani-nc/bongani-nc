@@ -31,13 +31,13 @@ I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Pytho
 
 ![Project 1 Screenshot](img/Picture3.jpg)
 
-**[EduLearn]** is an **[e-learning website aimed at secondary school students in Zambia under the ECZ curriculum, which will enable them to access educational resources such as notes based on subjects, past exam papers, and interactive quizzes]** and it is built with **[HTML, CSS, JavaScript, PHP, and MySQL]**. This project demonstrates my ability to **[analyse a project area, identify a relevant problem, build and deploy a solution, as well as project management and documentation]**. You can check out the repository [here](project_1_repository_link).
+**EduLearn** is an **e-learning website aimed at secondary school students in Zambia under the ECZ curriculum, which will enable them to access educational resources such as notes based on subjects, past exam papers, and interactive quizzes** and it is built with **HTML, CSS, JavaScript, PHP, and MySQL**. This project demonstrates my ability to **analyse a project area, identify a relevant problem, build and deploy a solution, as well as project management and documentation**. You can check out the repository [here](project_1_repository_link).
 
 ### [Standing Desk Website](https://bongani-nc.github.io/standing-desks/home.html)
 
 ![Project 2 Screenshot](img/Picture4.jpg)
 
-**[The Standing Desk Website]** is a **[a standing desk website that has various features such as a home page, benefits, cart, shopping page and a responsive design]** built with **[HTML, CSS, and JavaScript]**. This project showcases my skills in **[designing and developing a front-end website]**. You can check out the repository [here](project_2_repository_link).
+**The Standing Desk Website** is a **a standing desk website that has various features such as a home page, benefits, cart, shopping page and a responsive design** built with **HTML, CSS, and JavaScript**. This project showcases my skills in **designing and developing a front-end website**. You can check out the repository [here](https://github.com/bongani-nc/standing-desks).
 
 ## Get in Touch 📬
 
