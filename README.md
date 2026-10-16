@@ -22,18 +22,18 @@ I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Pytho
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+<!--*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*-->
 
 <!-- Comment out when projects are live
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Project 1 Title]()
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [Standing Desk Website](https://bongani-nc.github.io/standing-desks/home.html)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
