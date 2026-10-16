@@ -24,21 +24,21 @@ I'm a passionate **developer** with experience in **HTML, CSS, JavaScript, Pytho
 
 <!--*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*-->
 
-<!-- Comment out when projects are live
+
 ## Featured Projects 💻
 
 ### [Project 1 Title]()
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](img/Picture3.jpg)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
 ### [Standing Desk Website](https://bongani-nc.github.io/standing-desks/home.html)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot](img/Picture4.jpg)
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
--->
+
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
